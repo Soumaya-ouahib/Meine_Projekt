@@ -1,4 +1,25 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/images/body-bg.jpg": "/images/body-bg.jpg",
+    "/images/bus.png": "/images/bus.png",
+    "/images/hero-bg.png": "/images/hero-bg.png",
+    "/images/hero.png": "/images/hero.png",
+    "/images/kids.jpg": "/images/kids.jpg",
+    "/images/kidss.jpg": "/images/kidss.jpg",
+    "/images/logo.png": "/images/logo.png",
+    "/images/menu.png": "/images/menu.png",
+    "/images/next.png": "/images/next.png",
+    "/images/prev.png": "/images/prev.png",
+    "/images/README.md": "/images/README.md",
+    "/images/right-arrow.png": "/images/right-arrow.png",
+    "/images/search-icon-mobile.png": "/images/search-icon-mobile.png",
+    "/images/search-icon.png": "/images/search-icon.png",
+    "/images/shape-1.png": "/images/shape-1.png",
+    "/images/shape-2.png": "/images/shape-2.png",
+    "/images/student.png": "/images/student.png",
+    "/images/teacher-1.jpg": "/images/teacher-1.jpg",
+    "/images/teacher-2.jpg": "/images/teacher-2.jpg",
+    "/images/teacher-3.jpg": "/images/teacher-3.jpg",
+    "/images/teacher-4.jpg": "/images/teacher-4.jpg"
 }
